@@ -1,0 +1,8 @@
+.bg-light {
+    background-color:#E7E6E6 !important;
+}
+.imgtop{
+  height: 875px;
+  background:url(img/computer.jpg) no-repeat bottom  ;
+  background-size: cover;
+}
